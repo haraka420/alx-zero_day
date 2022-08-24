@@ -1,2 +1,2 @@
 My first readme
-code red
+code red.
